@@ -108,6 +108,9 @@ React dependency conflict	npm install --legacy-peer-deps
 ### To-Do Future Enhancements
 
 Web dashboard analytics
+
 Auto identify fraud pattern dataset training
+
 Claim PDF structured parsing engine
+
 Email/SMS notification on approval
